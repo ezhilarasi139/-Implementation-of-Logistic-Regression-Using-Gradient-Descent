@@ -131,18 +131,31 @@ print(y_prednew)
 <img width="371" height="386" alt="image" src="https://github.com/user-attachments/assets/5779d171-92ad-4ca7-b5ed-c98d95bfdd4a" />
 
 ### Dataset
+
 <img width="1175" height="562" alt="image" src="https://github.com/user-attachments/assets/44fe9ae6-303e-4a93-905d-bd291c0d893c" />
+
 ### Y
+
 <img width="891" height="283" alt="image" src="https://github.com/user-attachments/assets/f5632cd0-2c42-46cf-818c-0fd3abea38bc" />
+
 ### Accuracy
+
 <img width="422" height="56" alt="image" src="https://github.com/user-attachments/assets/6fbf1384-e748-463f-956d-ecf5f0d115d9" />
+
 ### Y_Pred
+
 <img width="912" height="180" alt="image" src="https://github.com/user-attachments/assets/b6e49210-b49a-4287-a96a-10b0752b2303" />
+
 ### Y
+
 <img width="921" height="178" alt="image" src="https://github.com/user-attachments/assets/f6078e62-20c8-44ea-bfc2-4e72c760094f" />
+
 ### Y_prednew
+
 <img width="173" height="42" alt="image" src="https://github.com/user-attachments/assets/63edad46-4bbf-45e2-9f21-bf1a67f84b25" />
+
 ### Y_prednew
+
 <img width="111" height="51" alt="image" src="https://github.com/user-attachments/assets/3e40614a-76cc-4e53-a4f4-1ad28cc75b7d" />
 
 ## Result:
