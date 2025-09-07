@@ -125,8 +125,11 @@ print(y_prednew)
 
 ### Dataset
 <img width="1482" height="507" alt="image" src="https://github.com/user-attachments/assets/337943b0-7362-4b9a-9d03-09d2f90e3c80" />
+
 ### Dataset.dtypes
+
 <img width="371" height="386" alt="image" src="https://github.com/user-attachments/assets/5779d171-92ad-4ca7-b5ed-c98d95bfdd4a" />
+
 ### Dataset
 <img width="1175" height="562" alt="image" src="https://github.com/user-attachments/assets/44fe9ae6-303e-4a93-905d-bd291c0d893c" />
 ### Y
